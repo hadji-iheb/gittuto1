@@ -4,7 +4,14 @@
 
 int main () {
 
-printf ("Hello ACE")
+
+int somme (int a , int b){
+    return a+b ;
+}
+
+
+
+printf ("Hello ACE ")
 
 return 0
 
